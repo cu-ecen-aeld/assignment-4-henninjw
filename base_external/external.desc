@@ -1,2 +1,2 @@
 name: project_base
-desc: A collection of packages and configurations for Buildroot project
+description: Base customization for project
